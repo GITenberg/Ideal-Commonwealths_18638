@@ -1,0 +1,67 @@
+_repo: Ideal-Commonwealths_18638
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Campanella, Tommaso
+    birthdate: 1568
+    deathdate: 1639
+    gutenberg_agent_id: '1040'
+    url: http://www.gutenberg.org/2009/agents/1040
+    wikipedia: http://en.wikipedia.org/wiki/Tommaso_Campanella
+  - agent_name: Bacon, Francis
+    aliases:
+    - St. Albans, Francis Bacon, Viscount
+    - Verulam, Francis Bacon
+    birthdate: 1561
+    deathdate: 1626
+    gutenberg_agent_id: '296'
+    url: http://www.gutenberg.org/2009/agents/296
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+  - agent_name: Hall, Joseph
+    birthdate: 1574
+    deathdate: 1656
+    gutenberg_agent_id: '38019'
+    url: http://www.gutenberg.org/2009/agents/38019
+  - agent_name: More, Thomas, Saint
+    aliases:
+    - Morus, Thomas
+    - More, Thomas, Sir, Saint
+    - Moore, Thomas, Saint
+    birthdate: 1478
+    deathdate: 1535
+    gutenberg_agent_id: '827'
+    url: http://www.gutenberg.org/2009/agents/827
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_More
+  - agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2006-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias'
+- !lcc 'HX'
+tableOfContents: Plutarch's Lycurgus -- More's Utopia -- Bacon's New Atlantis -- Campanella's
+  City of the Sun -- A Fragment of Hall's Mundus Alter et Idem
+title: Ideal Commonwealths
+url: http://www.gutenberg.org/ebooks/18638
